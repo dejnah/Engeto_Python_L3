@@ -29,6 +29,5 @@ print(student.keys())
 #7
 print(len(student))
 
-
 from pprint import pprint
 pprint(student)
